@@ -9,16 +9,9 @@
 
 ---
 
-## 👁️ Profile Views
-
-
-
-
-  
-
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khansameerm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 ---
 
 ## 🚀 About Me
@@ -71,67 +64,37 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumairansar55&theme=react&border=7F3FBF&background=0D1117" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumairansar55&theme=react" />
+</p>
 
-
-  
-  
-
-
-
-
-
-
-
-  
-
-
-
-
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sumairansar55&show_icons=true&count_private=true&theme=react" height="180"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Sumairansar55&layout=compact&theme=react" height="180"/>
+</p>
 ---
 
 ## 🏆 GitHub Trophies
-
-
-
-
-  
-
-
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sumairansar55&theme=dark_lover&row=1&column=7&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-
-
-
-  
-    
-  
-  
-    
-  
-  
-    
-  
-  
-    
-  
-  
-    
-  
-  
-    
-  
-  
-    
-  
-  
-    
-  
-
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 
 
